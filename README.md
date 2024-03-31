@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# AI_ENGINEERING
-repo for AI Engineering projects
-=======
 ---
 title: BeyondChatGPT Demo
 emoji: 📉
@@ -191,4 +187,3 @@ Who else is diving into the world of AI? Let's connect! 🌐💡
 <p></p>
 
 ### That's it for now!  And so it begins.... :)
->>>>>>> BCBranch
